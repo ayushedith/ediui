@@ -14,3 +14,4 @@ function App() {
 }
 
 export default App;
+// Path: src/components/ui/navbar.tsx
